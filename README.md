@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil no GitHub!
 
-Oi, eu sou Samuel Doldán, um desenvolvedor em progresso focado em desenvolvimento front-end e criação de páginas web. Atualmente, estou cursando HTML, Portugol e JavaScript, e sou estudante do IFSP-CBT (Instituto Federal de São Paulo - Cubatão).
+Oi, eu sou Samuel Doldán, um desenvolvedor em progresso focado em desenvolvimento front-end e criação de páginas web. Atualmente, estou cursando C#, Portugol e JavaScript, e sou estudante do IFSP-CBT (Instituto Federal de São Paulo - Cubatão).
 
 ## Tecnologias
 
