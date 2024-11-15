@@ -13,11 +13,11 @@ Aqui estão algumas das tecnologias que estou estudando e utilizando:
 
 ## Sobre Mim
 
-- 🌱 Atualmente, estou cursando **HTML**, **Portugol** e **JavaScript**.
-- 📚 Estudante do **IFSP** (Instituto Federal de São Paulo).
+- 🌱 Atualmente, estou cursando **C#**, **Portugol** e **JavaScript**.
+- 📚 Estudante do **IFSP-CBT** (Instituto Federal de São Paulo - Cubatão).
 - 🚀 Em progresso para me tornar um **Desenvolvedor Front-End**.
 - 💬 Pergunte-me sobre desenvolvimento web e tecnologias front-end.
-- 📫 Como me encontrar: [samuel.doldan@example.com](mailto:samuel.doldan@example.com)
+- 📫 Como me encontrar: [samueldoldanteixeira@gmail.com](mailto:samueldoldanteixeira@gmail.com)
 
 ## Estatísticas do GitHub
 
